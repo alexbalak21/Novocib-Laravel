@@ -1,0 +1,21 @@
+Option 1 — “Put EVERYTHING inside one single code block”
+Example:
+
+Put the entire document inside one single code block with no text outside it.
+
+ Option 2 — “Give me raw Markdown as plain text”
+Example:
+
+Give me the raw Markdown as plain text inside a single fenced code block.
+
+ Option 3 — “Output ONLY a code block, nothing else”
+Example:
+
+Output only a code block containing the Markdown. No text before or after.
+
+ Option 4 — “Generate a .txt version”
+Example:
+
+Give me the content as a .txt file inside a single code block.
+
+(TXT is not rendered by the chat UI, so it stays raw.)
