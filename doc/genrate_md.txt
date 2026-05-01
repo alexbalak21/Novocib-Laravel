@@ -19,3 +19,11 @@ Example:
 Give me the content as a .txt file inside a single code block.
 
 (TXT is not rendered by the chat UI, so it stays raw.)
+
+
+The magic rule
+If you want pure raw Markdown, you MUST ask:
+
+“Put EVERYTHING inside one single fenced code block, with no text outside.”
+
+That forces the chat to show the content literally.
